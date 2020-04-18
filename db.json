@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Hilux 2010",
+      "imageUrl": "https://www.coches.com/fotos_historicas/toyota/C-HR/med_5cd7af822571d873c0330947c3869555.jpg",
+      "color": "red",
+      "price": "3000",
+      "kms": "88752"
+    },
+    {
+      "id": 2,
+      "name": "hyundai grand i10 sedan 2018",
+      "imageUrl": "https://cde.3.neoauto.com/autos_usados/301x250/606210/606210_5571237.jpg?20200413110645",
+      "color": "red",
+      "price": "10000",
+      "kms": "34343"
+    },
+    {
+      "id": 3,
+      "name": "jeep compass 2010",
+      "imageUrl": "https://cde.3.neoauto.com/autos_usados/301x250/435803/435803_5479637.jpg?20200413110645",
+      "color": "red",
+      "price": "5400",
+      "kms": "232222"
+    }
+  ]
+}
